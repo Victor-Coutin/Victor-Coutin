@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 260" width="1000" height="260" role="img" aria-label="Victor Coutinho, estudante de Engenharia de Software">
+<style>
+.t{font-family:Inter,'Segoe UI',Helvetica,Arial,sans-serif}
+.pulse{fill:none;stroke:#3df5a0;stroke-width:2.2;stroke-linecap:round;stroke-dasharray:70 530;animation:run 5s linear infinite}
+.p2{animation-delay:-1.8s}.p3{animation-delay:-3.4s}
+@keyframes run{from{stroke-dashoffset:0}to{stroke-dashoffset:-600}}
+</style>
+<rect width="1000" height="260" rx="16" fill="#050505"/>
+<rect x=".5" y=".5" width="999" height="259" rx="15.5" fill="none" stroke="#1d1d1d"/>
+<g fill="none" stroke="#ffffff" stroke-opacity=".08" stroke-width="1.2" stroke-linejoin="round">
+<path d="M600 0V60L640 100V170L680 210V260"/>
+<path d="M780 0V50L830 100V200L870 240V260"/>
+<path d="M940 0V90L900 130V260"/>
+</g>
+<path class="pulse" pathLength="600" d="M600 0V60L640 100V170L680 210V260"/>
+<path class="pulse p2" pathLength="600" d="M780 0V50L830 100V200L870 240V260"/>
+<path class="pulse p3" pathLength="600" d="M940 0V90L900 130V260"/>
+<path d="M88 34l22.5 13v26L88 86 65.5 73V47z" fill="none" stroke="#3df5a0" stroke-width="2.4" stroke-linejoin="round"/>
+<path d="M77 51l11 20 11-20" fill="none" stroke="#f2f2f2" stroke-width="3.4" stroke-linecap="round" stroke-linejoin="round"/>
+<text class="t" x="60" y="158" font-size="52" font-weight="700" fill="#f2f2f2" letter-spacing="-1.5">Victor Coutinho</text>
+<text class="t" x="62" y="194" font-size="22" fill="#3df5a0">Estudante de Engenharia de Software</text>
+<text class="t" x="62" y="228" font-size="16" fill="#8c8c8c">Concursos  ·  Cibersegurança  ·  Full stack</text>
+</svg>
