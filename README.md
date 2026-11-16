@@ -33,7 +33,7 @@ Sou estudante de Engenharia de Software no UDF e transformo cada matéria em pro
 - **ReservEI**: sistema de reservas e mesas de restaurante, com protótipo no Figma e banco de dados em MySQL.
 - **[Direitos TEA](https://tea-profissional.netlify.app/)**: aplicativo web com os direitos de pessoas com TEA em linguagem simples.
 - **[HoyalPet](https://github.com/Victor-Coutin/HoyalPet)**: site de um pet shop fictício, feito com HTML e CSS.
-- **Presidentes do Brasil** e **12 de Outubro**: sites feitos nos estudos de HTML, CSS e JavaScript.
+- **[Presidentes do Brasil](https://victor-coutin.github.io/Presidentes-do-Brasil/)** e **[12 de Outubro](https://victor-coutin.github.io/12-de-Outubro/)**: sites feitos nos estudos de HTML, CSS e JavaScript.
 
 Todos eles estão no meu [portfólio](https://victor-coutin.github.io/).
 
