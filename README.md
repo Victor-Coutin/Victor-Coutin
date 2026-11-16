@@ -35,7 +35,7 @@ Sou estudante de Engenharia de Software no UDF e transformo cada matéria em pro
 - **[HoyalPet](https://github.com/Victor-Coutin/HoyalPet)**: site de um pet shop fictício, feito com HTML e CSS.
 - **Presidentes do Brasil** e **12 de Outubro**: sites feitos nos estudos de HTML, CSS e JavaScript.
 
-Todos eles estão no meu [portfólio](https://victor-coutin.github.io/portfolio/).
+Todos eles estão no meu [portfólio](https://victor-coutin.github.io/).
 
 ## Minhas contribuições
 
