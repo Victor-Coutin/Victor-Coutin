@@ -4,7 +4,7 @@
 
 <br>
 
-[**Portfólio**](https://victor-coutin.github.io/portfolio/) · [LinkedIn](https://www.linkedin.com/in/victor-coutinho-3b630a3b6) · [Instagram](https://www.instagram.com/victor.coutin/) · [Currículo](https://victor-coutin.github.io/portfolio/curriculo-victor-coutinho.pdf)
+[**Portfólio**](https://victor-coutin.github.io/) · [LinkedIn](https://www.linkedin.com/in/victor-coutinho-3b630a3b6) · [Instagram](https://www.instagram.com/victor.coutin/) · [Currículo](https://victor-coutin.github.io/portfolio/curriculo-victor-coutinho.pdf)
 
 </div>
 
